@@ -1,0 +1,269 @@
+
+ANÁLISIS DE REFERENCIAS EN EL CSV:
+================================================================================
+Total de referencias únicas encontradas: 1
+Total de registros con referencia: 1
+================================================================================
+
+Buscando producto con referencia: 0007
+Producto encontrado: leches en vino
+
+================================================================================
+[DEBUG] INFORMACIÓN DETALLADA
+================================================================================
+
+[DEBUG] MAPEO EN BASE DE DATOS
+  reference: 0007
+  shopify_id: 8717098156250
+  handle: 0007-pendientes-oro-amarillo-cubanas-con-circonitas-18x15-mm-cierre-catalan
+  created: 2024-11-16 19:05:42
+  updated: 2024-11-16 19:05:42
+
+[DEBUG] PRODUCTO SHOPIFY
+  id: 8717098156250
+  handle: 0007-pendientes-oro-amarillo-cubanas-con-circonitas-18x15-mm-cierre-catalan
+  status: active
+  created_at: 2024-11-16T13:05:41-05:00
+  updated_at: 2024-11-17T06:53:55-05:00
+
+[DEBUG] CAMBIOS EN CONTENIDO
+  Título actual: leches en vino
+  Título nuevo: leches en vino
+  HTML actual: <p> Collar hecho en <b>Oro Amarillo 18K</b> de la marca Joyas Armaan con cierre <b>de mosquetón</b>,...
+  HTML nuevo: <p> Collar hecho en <b>Oro Amarillo 18K</b> de la marca Joyas Armaan con cierre <b>de mosquetón</b>,...
+
+IMÁGENES:
+  Imágenes actuales:
+    1. https://cdn.shopify.com/s/files/1/0729/0506/4666/files/CRIOLLA_ORO_JOSELUIS_318SCR29OR145C35_1_eddbce65-17f6-4039-84bb-e576c95b3b3b.webp?v=1731844435
+       Position: 1
+       ID: 43869455515866
+    2. https://cdn.shopify.com/s/files/1/0729/0506/4666/files/COLGANTE_ORO_JOSELUIS_418SCO58N2309C00_1_238669d7-170e-41ac-a648-f9cc773d2abf.webp?v=1731844435
+       Position: 2
+       ID: 43869455548634
+    3. https://cdn.shopify.com/s/files/1/0729/0506/4666/files/COLGANTE_ORO_JOSELUIS_218UMD72AACUAA13_1_0718f61c-5f2d-41b8-b972-1f0f6e7bbf7e.webp?v=1731844435
+       Position: 3
+       ID: 43869455581402
+
+  Imágenes nuevas:
+    1. https://www.joseluisjoyerias.com/adm/files/FOTOS/CRIOLLA_ORO_JOSELUIS_318SCR29OR145C35_1.webp
+       Position: 1
+       Alt: leches en vino - Imagen 1
+    2. https://www.joseluisjoyerias.com/adm/files/FOTOS/COLGANTE_ORO_JOSELUIS_418SCO58N2309C00_1.webp
+       Position: 2
+       Alt: leches en vino - Imagen 2
+    3. https://www.joseluisjoyerias.com/adm/files/FOTOS/COLGANTE_ORO_JOSELUIS_218UMD72AACUAA13_1.webp
+       Position: 3
+       Alt: leches en vino - Imagen 3
+
+METAFIELDS:
+
+  COMPARACIÓN DE METAFIELDS:
+  ============================================================
+
+  • custom.acabado
+    Actual: NO EXISTE
+    Nuevo:  test acabado
+    Tipo:   single_line_text_field
+
+  • custom.alto
+    Actual: NO EXISTE
+    Nuevo:  55.0
+    Tipo:   number_decimal
+
+  • custom.ancho
+    Actual: NO EXISTE
+    Nuevo:  77.0
+    Tipo:   number_decimal
+
+  • custom.ancho_del_anillo
+    Actual: NO EXISTE
+    Nuevo:  0.0
+    Tipo:   number_decimal
+
+  • custom.cierre
+    Actual: NO EXISTE
+    Nuevo:  test cierre
+    Tipo:   single_line_text_field
+
+  • custom.color_de_la_perla
+    Actual: NO EXISTE
+    Nuevo:  test color piedra
+    Tipo:   single_line_text_field
+
+  • custom.color_de_las_piedras
+    Actual: NO EXISTE
+    Nuevo:  test color de las piedras
+    Tipo:   single_line_text_field
+
+  • custom.color_del_diamante
+    Actual: NO EXISTE
+    Nuevo:  test color diamante
+    Tipo:   single_line_text_field
+
+  • custom.color_piedra_central
+    Actual: NO EXISTE
+    Nuevo:  test colo piedra centgral
+    Tipo:   single_line_text_field
+
+  • custom.destinatario
+    Actual: NO EXISTE
+    Nuevo:  test destinatario
+    Tipo:   single_line_text_field
+
+  • custom.diametro
+    Actual: NO EXISTE
+    Nuevo:  66
+    Tipo:   single_line_text_field
+
+  • custom.diametro_de_la_perla
+    Actual: NO EXISTE
+    Nuevo:  22
+    Tipo:   single_line_text_field
+
+  • custom.dimensiones_piedra_central_anillo
+    Actual: NO EXISTE
+    Nuevo:  test piedra central anillo
+    Tipo:   single_line_text_field
+
+  • custom.evento
+    Actual: NO EXISTE
+    Nuevo:  test evento
+    Tipo:   single_line_text_field
+
+  • custom.figura_en_la_medalla
+    Actual: NO EXISTE
+    Nuevo:  test figura medalla
+    Tipo:   single_line_text_field
+
+  • custom.forma_de_la_medalla
+    Actual: NO EXISTE
+    Nuevo:  test forma medalla
+    Tipo:   single_line_text_field
+
+  • custom.forma_del_colgante
+    Actual: NO EXISTE
+    Nuevo:  test forma colgante
+    Tipo:   single_line_text_field
+
+  • custom.forma_del_pendiente
+    Actual: NO EXISTE
+    Nuevo:  test forma pendinete
+    Tipo:   single_line_text_field
+
+  • custom.garantia
+    Actual: NO EXISTE
+    Nuevo:  test garantia
+    Tipo:   single_line_text_field
+
+  • custom.garantia_internacional
+    Actual: NO EXISTE
+    Nuevo:  test garantia
+    Tipo:   single_line_text_field
+
+  • custom.grosor
+    Actual: NO EXISTE
+    Nuevo:  11.0
+    Tipo:   number_decimal
+
+  • custom.largo
+    Actual: NO EXISTE
+    Nuevo:  99.0
+    Tipo:   number_decimal
+
+  • custom.material
+    Actual: NO EXISTE
+    Nuevo:  test material
+    Tipo:   single_line_text_field
+
+  • custom.medidas
+    Actual: NO EXISTE
+    Nuevo:  test medidas
+    Tipo:   single_line_text_field
+
+  • custom.peso
+    Actual: NO EXISTE
+    Nuevo:  test peso
+    Tipo:   single_line_text_field
+
+  • custom.piedra_central
+    Actual: NO EXISTE
+    Nuevo:  test piedra central
+    Tipo:   single_line_text_field
+
+  • custom.piedras_2
+    Actual: NO EXISTE
+    Nuevo:  test piedras 2
+    Tipo:   single_line_text_field
+
+  • custom.piedras_del_anillo
+    Actual: NO EXISTE
+    Nuevo:  test piedras del anillo
+    Tipo:   single_line_text_field
+
+  • custom.piedras_laterales_del_anillo
+    Actual: NO EXISTE
+    Nuevo:  test piedras laterales anillo
+    Tipo:   single_line_text_field
+
+  • custom.pureza_del_diamante
+    Actual: NO EXISTE
+    Nuevo:  test pureza diamante
+    Tipo:   single_line_text_field
+
+  • custom.quilates_del_diamante
+    Actual: NO EXISTE
+    Nuevo:  0.0
+    Tipo:   number_decimal
+
+  • custom.tipo_de_anillo
+    Actual: NO EXISTE
+    Nuevo:  test tipo de anillo
+    Tipo:   single_line_text_field
+
+  • custom.tipo_de_cadena
+    Actual: NO EXISTE
+    Nuevo:  test tipo cadena
+    Tipo:   single_line_text_field
+
+  • custom.tipo_de_cruz
+    Actual: NO EXISTE
+    Nuevo:  test tipo cruz
+    Tipo:   single_line_text_field
+
+  • custom.tipo_de_eslabon
+    Actual: NO EXISTE
+    Nuevo:  test tipo eslabon
+    Tipo:   single_line_text_field
+
+  • custom.tipo_de_perla
+    Actual: NO EXISTE
+    Nuevo:  test tipo perla
+    Tipo:   single_line_text_field
+
+  • custom.tipo_de_piedra
+    Actual: NO EXISTE
+    Nuevo:  test tipo piedra
+    Tipo:   single_line_text_field
+
+  • custom.tipo_de_pulsera
+    Actual: NO EXISTE
+    Nuevo:  test tipo pulsera
+    Tipo:   single_line_text_field
+  ============================================================
+
+[DEBUG] TAGS
+  Actuales: ['Collares', 'Collares y colgantes', 'GARGANTILLAS Y COLLARES', 'O. AMARILLO']
+  Nuevos: ['Collares', 'Collares y colgantes', 'GARGANTILLAS Y COLLARES', 'O. AMARILLO']
+  Añadidos: []
+  Eliminados: []
+
+[DEBUG] VARIANTES
+  - {'id': 45974331752666, 'sku': '0007', 'price': '692.54', 'inventory': 3}
+================================================================================
+
+================================================================================
+RESUMEN DE ACTUALIZACIÓN
+================================================================================
+Total productos procesados: 1
+Actualizaciones exitosas: 0
+================================================================================
